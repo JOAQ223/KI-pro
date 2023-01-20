@@ -1,6 +1,5 @@
 # KI-projekt 
 
-# AI-Projekt
 
 ## PROJEKTBESCHREIBUNG: ##
 Das Projekt  bezieht sich auf eine künstliche Intelligenz ,Die bearbeitet Audiodatei in Text.  

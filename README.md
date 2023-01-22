@@ -40,7 +40,7 @@ Falls die Dateiqualität unbenutzbar ist , dann sollte man mit Algorthmen für n
 ## Anleitung zur Installation und Ausführung Ihres Projekts:
 
  1- Python  in den Rechner installieren von https://www.python.org/downloads/<br/>
- 2-  JIwer  installieren `` pip install jiwer <br/>
+ 2-  JIwer  installieren `` pip install jiwer`` <br/>
  3-  Pandas Installieren https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html <br/>
  
 
